@@ -1,0 +1,22 @@
+{
+  "name": "possibility",
+  "version": "0.1.0",
+  "description": "A simple optional library for NodeJS",
+  "main": "possibility.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VevoxDigital/possibility.git"
+  },
+  "author": "Vevox Digital",
+  "contributors": [
+    "Matthew Struble <matt@vevox.io>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VevoxDigital/possibility/issues"
+  },
+  "homepage": "https://github.com/VevoxDigital/possibility#readme"
+}
